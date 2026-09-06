@@ -6,10 +6,9 @@ This project estimates the unknown parameters of a given parametric curve from a
 
 The unknown parameters are:
 
-- \(\theta\) — rotation angle
-- \(M\) — exponential growth/decay parameter
-- \(X\) — horizontal translation parameter
-
+- $\theta$ — rotation angle
+- $M$ — exponential growth/decay parameter
+- $X$ — horizontal translation parameter
 The estimated parameters are then used to reconstruct the original parametric curve and evaluate the quality of the reconstruction using the L1 distance.
 
 ---
